@@ -1,0 +1,8 @@
+[
+  "test_roots.py::test_quadroots_result",
+  "test_roots.py::test_quadroots_types",
+  "test_roots.py::test_quadroots_zerocoeff",
+  "test_roots.py::test_linearoots_result",
+  "test_roots.py::test_linearroots_types",
+  "test_roots.py::test_linearroots_zerocoeff"
+]
